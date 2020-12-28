@@ -2,4 +2,6 @@
 
 ## 浏览器相关
 
-[V8引擎垃圾回收与内存分配](https://github.com/XUJING-already/Learning/issues/1) 
+ - [V8引擎垃圾回收与内存分配](https://github.com/XUJING-already/Learning/issues/1) 
+ 
+## Typescript
