@@ -8,3 +8,4 @@
  
  - [TypeScript之基础类型](https://github.com/XUJING-already/Learning/issues/2)
  - [TypeScript之变量声明](https://github.com/XUJING-already/Learning/issues/3)
+ - [TypeSctipt之接口](https://github.com/XUJING-already/Learning/issues/4)
