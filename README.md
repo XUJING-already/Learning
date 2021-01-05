@@ -10,3 +10,4 @@
  - [TypeScript之变量声明](https://github.com/XUJING-already/Learning/issues/3)
  - [TypeScript之接口](https://github.com/XUJING-already/Learning/issues/4)
  - [TypeSript之类](https://github.com/XUJING-already/Learning/issues/5)
+ - [TypeScript之函数](https://github.com/XUJING-already/Learning/issues/6)
