@@ -13,3 +13,4 @@
  - [TypeScript之函数](https://github.com/XUJING-already/Learning/issues/6)
  - [TypeScript之泛型](https://github.com/XUJING-already/Learning/issues/7)
  - [TypeScript之枚举](https://github.com/XUJING-already/Learning/issues/8)
+ - [TypeScript之类型推论](https://github.com/XUJING-already/Learning/issues/9)
