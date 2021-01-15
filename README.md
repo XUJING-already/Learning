@@ -15,3 +15,4 @@
  - [TypeScript之枚举](https://github.com/XUJING-already/Learning/issues/8)
  - [TypeScript之类型推论](https://github.com/XUJING-already/Learning/issues/9)
  - [TypeScript之类型兼容性](https://github.com/XUJING-already/Learning/issues/10)
+ - [TypeScript之高级类型](https://github.com/XUJING-already/Learning/issues/11)
