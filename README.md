@@ -18,3 +18,4 @@
  - [TypeScript之高级类型](https://github.com/XUJING-already/Learning/issues/11)
  - [TypeScript之Symbols](https://github.com/XUJING-already/Learning/issues/12)
  - [TypeScript之迭代器和生成器](https://github.com/XUJING-already/Learning/issues/13)
+ - [TypeScript之模块](https://github.com/XUJING-already/Learning/issues/14)
