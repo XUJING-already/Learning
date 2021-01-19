@@ -22,3 +22,4 @@
  - [TypeScript之命名空间](https://github.com/XUJING-already/Learning/issues/15)
  - [TypeScript之命名空间和模块](https://github.com/XUJING-already/Learning/issues/16)
  - [TypeScript之模块解析](https://github.com/XUJING-already/Learning/issues/17)
+ - [TypeScript之声明合并](https://github.com/XUJING-already/Learning/issues/18)
